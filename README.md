@@ -63,4 +63,3 @@ GPL v2 or later
 Developed by Derek Hanson for smooth parallax video effects in WordPress Cover blocks.
 
 **Plugin URL**: https://derekhanson.blog/parallax-cover-video/
-
